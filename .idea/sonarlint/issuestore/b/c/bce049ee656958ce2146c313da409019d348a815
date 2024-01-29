@@ -1,0 +1,12 @@
+
+J
+java:S1611*"4Remove the parentheses around the "logout" parameter(€Š¸
+O
+java:S1611;"9Remove the parentheses around the "authorities" parameter(…ÂÍû
+R
+java:S1611="7Remove the parentheses around the "authority" parameter(âÒŠ¦ıÿÿÿÿ
+E	java:S106@"+Replace this use of System.out by a logger.(­Âæüÿÿÿÿ
+H
+java:S1611L"2Remove the parentheses around the "role" parameter(–ûŞ»
+^
+java:S1612L"HReplace this lambda with method reference 'SimpleGrantedAuthority::new'.(–ûŞ»
