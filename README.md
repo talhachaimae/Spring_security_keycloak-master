@@ -7,12 +7,11 @@ This Project is for demonstrate how to set up a security service like keycloak i
 3. An app for angular as a frantend
 
 
-![11jpg](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/c0b20382-570b-47a0-bb78-a871aacf67ef)
-![12](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/51fed8d4-f415-44ac-adf5-4d90a8aadd3b)
-![13](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/ea7b7dd8-8fa0-4b11-9692-7f6c4af5d369)
-![14](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/b791cf47-ab69-4446-9d10-d537fe3a3758)
-![15](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/2d895a5d-9f6d-4203-9993-6e814c4b06ba)
-![16](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/ecfa0291-9c9e-4668-baaf-dd9ba462eec7)
-![17](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/f5cf4cc6-e83f-42e8-8aee-10ff3f3bd02c)
-![18](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/ff42ce14-3916-455a-9713-7119dbb97cde)
-![19](https://github.com/Yasserkb/Spring_security_keycloak/assets/61334314/25e59a9a-ea8d-4810-8bfd-4518161459dc)
+
+![1](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/2d1ebc07-8730-4a71-826b-6b8bbdf6e7a9)
+![2](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/3a3547ad-ecc6-4f56-8082-5fb2b974a59d)
+![3](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/1e802ed2-6bbd-41cd-b342-9889e100eb22)
+![4](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/e7219432-5139-4768-908c-26fff4f25871)
+![5](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/ebc9e926-603b-480d-b410-0c6eb1db84da)
+![6](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/2791c4a8-daed-44d7-b7c8-fc7b2481c160)
+![7](https://github.com/talhachaimae/Spring_security_keycloak-master/assets/127420414/c6beb93e-e12b-4411-a89f-ffdd9dfb8736)
